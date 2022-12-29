@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Catalyst Circle Oversight v4](README.md)
+* [Catalyst Circle v4](README.md)
